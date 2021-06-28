@@ -1,0 +1,20 @@
+Programmers! This is a speed test game
+Programming is process of creating a set of instructions
+Arduino is an open-source hardware and software company
+NASA is an independent agency of USA
+SpaceX is an American space transportation services company
+Robotics is an integrative sector that integrates computer science
+Boston Dynamics is an engineering and robotics company
+WhatsApp is an American freeware IP service
+I am Majed studying in EEE,KUET
+My brother is Rayed who reads in standard 2
+My Father is an Engineer
+My another brother Rashed is a doctor
+My mother is a housewife
+My sister Maimuna is reading in standard 12
+I am a Programmer
+This is a ordinary python project
+This game is created by python programming
+We used to reside in KSA
+My name is Rayed
+I am a good student
